@@ -1,2 +1,2 @@
-# computerprogrammingclass2024-2025
+# Isaac Thaxton-Weaver's proggramming portfolio
 # this class will be very fun
