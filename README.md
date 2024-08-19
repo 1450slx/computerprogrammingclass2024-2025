@@ -3,3 +3,7 @@
 ## term 1
 
 ## Term 2
+# here is some stuff about me
+* i like skiing
+* i like gaming
+* i am 14
