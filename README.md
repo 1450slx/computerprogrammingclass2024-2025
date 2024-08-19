@@ -7,3 +7,4 @@
 * i like skiing
 * i like gaming
 * i am 14
+* i type at 35 wpm
