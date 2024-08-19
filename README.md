@@ -1,4 +1,4 @@
-# Isaac Thaxton-Weaver's proggramming portfolio 2024-2025
+# Isaac Thaxton-Weaver's programming portfolio 2024-2025
 
 ## term 1
 
