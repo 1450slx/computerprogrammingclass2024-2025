@@ -3,6 +3,10 @@
 ## term 1
 
 ## Term 2
+[spaceAmoeba.zip](https://github.com/user-attachments/files/17906323/spaceAmoeba.zip)
+
+
+
 # here is some stuff about me
 * i like skiing
 * i like gaming
